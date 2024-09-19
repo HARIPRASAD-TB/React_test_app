@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header /> 
-      <h1 className={Style.base}>hello</h1>
+        <h1 className={Style.base}>Hello</h1>
       <Footer />
     </>
   );

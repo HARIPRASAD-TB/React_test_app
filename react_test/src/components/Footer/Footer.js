@@ -3,7 +3,7 @@ import Style from './Footer.module.scss';
 
 function Footer() {
   return (
-    <div>© 2024 Hariprasad</div>
+    <div className={Style.mainFooter}>© 2024 Hariprasad</div>
   );
 }
 
