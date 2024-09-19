@@ -1,0 +1,17 @@
+.navigatingLinks{
+    background-color: rgb(224, 236, 182);
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    top: 90px;
+}
+.path{
+    margin: 5px;
+    display: flex;
+    a{
+        text-decoration: none;
+        color: rgb(245, 5, 213);
+    }
+}
